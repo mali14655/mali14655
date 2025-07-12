@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | github.com/mali14655 -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/mali14655/mali14655/blob/main/Banner.png?raw=true" alt="Muhammad Ali Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I am Muhammad Ali</h1>
 <h3 align="center">A MERN Stack Developer</h3>
