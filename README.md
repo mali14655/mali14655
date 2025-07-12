@@ -1,6 +1,6 @@
 <!-- GitHub Profile README | github.com/mali14655 -->
 
-<h1 align="center">Hi, I'm Muhammad Ali</h1>
+<h1 align="center">Hi, I am Muhammad Ali</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
 <p align="center">
@@ -9,9 +9,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-I’m a full-stack developer focused on building scalable web applications using the MERN stack. I value clean code, clear communication, and continuous growth. My goal is to create efficient, maintainable, and user-friendly solutions — always driven by curiosity and a love for learning.
+I am a MERN Stack developer focused on building scalable web applications using the MERN stack. I value clean code, clear communication, and continuous growth. My goal is to create efficient, maintainable, and user-friendly solutions — always driven by curiosity and a love for learning.
+
+---
+
+###  Connect with Me
+
+-  [LinkedIn](https://www.linkedin.com/in/muhammadali-dev5)
+-  [Portfolio](https://muhammadali-portfolio.vercel.app/)
+-  Email: **muhammadali.dev5@gmail.com**
+  
 
 ---
 
